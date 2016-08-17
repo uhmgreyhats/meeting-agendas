@@ -1,4 +1,5 @@
 Collect liability waivers
+
 Have members check out 'getting-started' to stay in the loop
 
 ### '8-22-16 Presentation' in gdrive fa16
