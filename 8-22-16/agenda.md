@@ -1,6 +1,6 @@
 This meeting is primarily for board members but anyone is welcome to come
 
-### Gerald, ICS, and ITS
+### ICS and ITS
 * Helping with GenCyber curriculum and mentoring for high schools
   * Department wants to be more independant and avoid use of contractors
 * Moving Meeting to Keller 1XX a.k.a. The Ice Dungeon
@@ -8,7 +8,8 @@ This meeting is primarily for board members but anyone is welcome to come
 * Pooihe Challenges
   * 100-200 in total
   * ICS 499 would be offered in the Spring along with credits after completion
-* Ask Gerald what we need to do to complete RIO application
+* What we need to do to complete RIO application and keep status
+* Ask for department reimbursment for NCL registration
 
 ### Future Meeting Topics
 * Proffessional Contact
