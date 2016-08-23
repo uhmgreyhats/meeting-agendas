@@ -1,27 +1,12 @@
-This meeting is primarily for board members but anyone is welcome to come
-
 ### ICS and ITS
-* Helping with GenCyber curriculum and mentoring for high schools
-  * Department wants to be more independant and avoid use of contractors
-* Moving Meeting to Keller 1XX a.k.a. The Ice Dungeon
-  * In talks with ITS to provid money for rennovation, but needs to be shown that the space is being used
-* Pooihe Challenges
-  * 100-200 in total
+* Helping with GenCyber curriculum and mentoring for high schools - WAITING FOR FURTHER DETAILS
+* Moving Meeting to Keller 1XX a.k.a. The Ice Dungeon - MEETINGS ARE BEING MOVED TO KELLER UNLESS OTHERWISE NOTICED
+* Pooihe Challenges - NOT DOING THEM
   * ICS 499 would be offered in the Spring along with credits after completion
-* What we need to do to complete RIO application and keep status
-* Ask for department reimbursment for NCL registration
+* What we need to do to complete RIO application and keep status -
+* Ask for department reimbursement for NCL registration - NOT GETTING REIMBURSED
 
-### Future Meeting Topics
-* Proffessional Contact
-  * 5 Steps of Penetration Testing
-  * Digital Forensics
-  * Virtualization
-* Board
-  * DEFCON badge and scavenger hunt
-  * Eletromechanics and Semi-conductors
-  * Lockpicking
-
-### Recuriting
+### Recruiting
 * Classes confirmed with instuctor
   * 332 Tuesday
   * 321 Thursday
@@ -32,4 +17,4 @@ This meeting is primarily for board members but anyone is welcome to come
   * IEEE - N/A
 
 ### Misc
-* Set up a weekly meeting time that works for everyone
+* Set up a weekly meeting time that works for everyone - MONDAYS @ 4:30
