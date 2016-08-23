@@ -11,6 +11,7 @@
   * ACM - 01SEP 1630 @ POST 318B
   * ITMA - N/A
   * IEEE - N/A
+* Make poster
 
 ### Misc
 * Set up a weekly meeting time that works for everyone - MONDAYS @ 4:30
