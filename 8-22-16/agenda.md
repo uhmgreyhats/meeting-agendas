@@ -7,10 +7,6 @@
 * Ask for department reimbursement for NCL registration - NOT GETTING REIMBURSED
 
 ### Recruiting
-* Classes confirmed with instuctor
-  * 332 Tuesday
-  * 321 Thursday
-  * 212 Monday (29AUG)
 * Other Clubs
   * ACM - 01SEP 1630 @ POST 318B
   * ITMA - N/A
