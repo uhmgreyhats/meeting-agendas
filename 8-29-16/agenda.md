@@ -17,3 +17,4 @@ Have members check out 'getting-started' to stay in the loop
   * Next CTF
   * Next Tech Talk
 * Talk about bank account
+* Getting greyhat@hawaii.edu onto the RIO's list
