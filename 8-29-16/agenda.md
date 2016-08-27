@@ -20,3 +20,4 @@ Have members check out 'getting-started' to stay in the loop
 * Getting onto the rios-l@lists.hawaii.edu
 * Pizza eating contest
 * Transfering slack and rio username panel to new president
+* Unified logo across accounts (slack, fb, and github)
