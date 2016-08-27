@@ -16,6 +16,7 @@ Have members check out 'getting-started' to stay in the loop
   * NCL Registration
   * Next CTF
   * Next Tech Talk
-* Talk about bank account
-* Getting greyhat@hawaii.edu onto the RIO's list
-* pizza eating contest
+* Getting bank account
+* Getting onto the rios-l@lists.hawaii.edu
+* Pizza eating contest
+* Transfering slack and rio username panel to new president
