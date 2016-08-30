@@ -17,9 +17,9 @@ Have members check out 'getting-started' to stay in the loop
   * Next CTF
   * Next Tech Talk
 * Getting bank account
-* Getting onto the rios-l@lists.hawaii.edu
-* Pizza eating contest
-* Transfering slack and rio username panel to new president
+* Getting onto the rios-l@lists.hawaii.edu (done)
+* Pizza eating contest (OUt of scopre/not applicable)
+* Transfering slack and rio username panel to new president (done)
 * Unified logo across accounts (slack, fb, and github)
 * Talking with Adam
    * seperate team based on skill level
