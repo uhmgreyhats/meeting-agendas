@@ -31,4 +31,6 @@ Practice CTF List / Permanant CTF List: http://captf.com/practice-ctf/
 - Possible selenium demonstration
 - Discuss a time for our first CTF practice round with Raytheon
 - Determine who wants to register for NCL
+- ITS CTF Scoring System Testing
+
 
