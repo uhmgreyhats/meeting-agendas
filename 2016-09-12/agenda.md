@@ -1,6 +1,7 @@
 ## Clay talking about power point
 - review generalized answer
 - selenium fuzzing web forms python demo
+- https://www.owasp.org/index.php/Fuzzing
 
 ## Linux Distros
 - Linux Images hosted by UHM - http://mirror.ancl.hawaii.edu/
@@ -8,7 +9,7 @@
 ## How to be a Hacker
 - Video: How to be a Hacker (10 mins) - https://www.youtube.com/watch?v=tlezBUdD53w
 - Reading: How To Become A Hacker - http://www.catb.org/~esr/faqs/hacker-howto.html
-- 
+
 ##Topics:
 - Programming (30 mins) - https://youtu.be/R6nApgQLFeg
 - Cryptography (15 min) - https://www.youtube.com/playlist?list=PL7AEDF86AABA1AA9A
@@ -30,7 +31,7 @@
 ## Clay Nakamura - 
 - Discuss a time for our first CTF practice round with Raytheon
 - Determine who wants to register for NCL
+- Sign RIO application
 
 ## Hendricks Hicks
 - ITS CTF Scoring System Testing
-
