@@ -33,9 +33,6 @@
 - http://www.seleniumhq.org
 - https://github.com/minimaxir/big-list-of-naughty-strings
 
-## Linux Distros
-- Linux Images hosted by UHM - http://mirror.ancl.hawaii.edu/
-
 ## How to be a Hacker
 - Video: How to be a Hacker (10 mins) - https://www.youtube.com/watch?v=tlezBUdD53w
 - Reading: How To Become A Hacker - http://www.catb.org/~esr/faqs/hacker-howto.html
@@ -49,11 +46,6 @@
 - Social Engineering (5 mins) - https://www.youtube.com/watch?v=1byRtf2r-B8
 - Networking Tutorial (3 hours) - https://youtu.be/xpXhudbsrr8
 
-## Top 10 Vulnerabilities 
-- Playlist (40 mins) - https://www.youtube.com/playlist?list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
-- Website - https://www.veracode.com/directory/owasp-top-10
-- Practice CTF List / Permanant CTF List: http://captf.com/practice-ctf/
-
 ## (5pm) James Ou - Fire Eye Challenge
 - demonstration
 - explanation
@@ -66,3 +58,7 @@
 
 ## Hendricks Hicks
 - ITS CTF Scoring System Testing
+
+## CSAW CTF
+Saturday 17SEP 9am at POST 318B (ICSpace)
+https://ctf.csaw.io/
