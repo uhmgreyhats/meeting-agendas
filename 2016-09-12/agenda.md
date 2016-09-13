@@ -1,7 +1,37 @@
-## Clay talking about power point
-- review generalized answer
-- selenium fuzzing web forms python demo
+## Clay Nakamura
+
+
+<img src="grey-hats-demographics.PNG">
+
+### Commmon Answers
+
+#### "What do you hope to get out of Grey Hats?"
+- friends
+- crypto
+- to be batman
+- bots
+- frat bros
+- scripting
+- networking
+- compete
+- lockpicking
+- free food
+- see projects
+- system hardening
+
+#### "What can we improve on"
+- stickers 
+- need more chicks
+- have beginners classes
+- support cyber community
+- be more friendly
+- more "in depth" meetings
+
+#### Selenium Fuzzing web forms python demo
 - https://www.owasp.org/index.php/Fuzzing
+- gogobooks.link
+- http://www.seleniumhq.org
+- https://github.com/minimaxir/big-list-of-naughty-strings
 
 ## Linux Distros
 - Linux Images hosted by UHM - http://mirror.ancl.hawaii.edu/
@@ -27,8 +57,9 @@
 ## (5pm) James Ou - Fire Eye Challenge
 - demonstration
 - explanation
+- questions
 
-## Clay Nakamura - 
+## Clay Nakamura
 - Discuss a time for our first CTF practice round with Raytheon
 - Determine who wants to register for NCL
 - Sign RIO application
