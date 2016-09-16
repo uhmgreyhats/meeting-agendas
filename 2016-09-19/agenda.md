@@ -8,3 +8,5 @@
 # Andy - Crowdstrike
  - Presentation
 
+# CTF Testify
+ - Ask new members what they thought of ITS test and CSAW and what they think other new people should prepare for expect
