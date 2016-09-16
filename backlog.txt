@@ -2,6 +2,8 @@ what is encryption?
 
 How do I stay anon on the internet?
 
+'tools' repo, online tools for beginner/intermediate challenges 
+
 go over CCDC 2016 red team debrief
 defcon debrief
 defcon badge debrief
