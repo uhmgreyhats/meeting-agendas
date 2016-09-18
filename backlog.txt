@@ -7,5 +7,9 @@ How do I stay anon on the internet?
 hype video https://www.youtube.com/results?search_query=college+hype+video
 
 go over CCDC 2016 red team debrief
+
 defcon debrief
+
 past NCL challenges
+
+gig switch on speperate vlan in kelloer 105
