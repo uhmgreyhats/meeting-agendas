@@ -1,16 +1,23 @@
+-Meetings
 what is encryption?
-
 How do I stay anon on the internet?
+CCDC Red Team Debrief
+DEFCON Debrief
+Past NCL Challenges
+DEFCON
 
-'tools' repo, online tools for beginner/intermediate challenges 
-pwn tools
-
+-Misc
+'tools' repo, online tools for beginner/intermediate challenges i.e. pwntools.io
 hype video https://www.youtube.com/results?search_query=college+hype+video
+ask gerald about setting up a gig switch on speperate vlan in kelloer 105
 
-go over CCDC 2016 red team debrief
-
-defcon debrief
-
-past NCL challenges
-
-gig switch on speperate vlan in kelloer 105
+-Private Lab
+Beagle Bone - https://beagleboard.org/getting-started#update
+ODROID-C1+ - http://forum.odroid.com/viewtopic.php?f=111&t=7611
+TP-Link & OpenWRT - https://wiki.openwrt.org/toh/tp-link/TL-WDR4300
+Wifi cracking
+Scanning and fingerprinting
+Running an exploit 
+Gaining access
+Maintaining access
+Covering Tracks
