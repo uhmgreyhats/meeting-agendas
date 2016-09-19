@@ -11,7 +11,7 @@ DEFCON
 hype video https://www.youtube.com/results?search_query=college+hype+video
 ask gerald about setting up a gig switch on speperate vlan in kelloer 105
 
--Private Lab
+-Private Lab 
 Beagle Bone - https://beagleboard.org/getting-started#update
 ODROID-C1+ - http://forum.odroid.com/viewtopic.php?f=111&t=7611
 TP-Link & OpenWRT - https://wiki.openwrt.org/toh/tp-link/TL-WDR4300
