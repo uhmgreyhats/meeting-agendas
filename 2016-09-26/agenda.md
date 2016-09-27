@@ -6,7 +6,7 @@
 # Mark Nelson - NSA Internships
  - 10m Pitch
  - 5m Q&A
- - internship link: bit.ly\nsah_internships2
+ - internship link: bit.ly/nsah_internships2
 
 # CSAW Breakdown
 [CSAW Challenges](https://ctf.csaw.io/challenges)
