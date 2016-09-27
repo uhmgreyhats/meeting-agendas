@@ -8,8 +8,6 @@
 
 # Review Grey Hats Policy
 
-# ARP Scan Demo
-
 # CSAW Breakdown
 https://ctf.csaw.io/challenges
   - Notesy 2.0
