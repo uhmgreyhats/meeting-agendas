@@ -1,15 +1,14 @@
 # When should we have Raytheon CTF?
  - weekdays or weekend days?
  - who can make it?
+ - Jeopardy style or attack and defend?
 
 # Mark Nelson - NSA Internships
  - 10m Pitch
  - 5m Q&A
 
-# Review Grey Hats Policy
-
 # CSAW Breakdown
-https://ctf.csaw.io/challenges
+[CSAW Challenges](https://ctf.csaw.io/challenges)
   - Notesy 2.0
   - Kill
   - Aul
