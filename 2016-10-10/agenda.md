@@ -6,6 +6,7 @@ Your team also uploaded 30 files (that's 19 fewer than the week before).
 ```
 
 # How To NCL
+ - sign up for labs
 
 # Clay - RClone Demo
 
@@ -14,5 +15,10 @@ Your team also uploaded 30 files (that's 19 fewer than the week before).
  - rsync (ssh)
 
 ### [rclone](https://github.com/ncw/rclone)
+
+# Rave Labs?
+ - learners course intended for beginners
+ - Who is interested?
+ - what days would work best?
 
 # Mark Nelson - Virtual Machines
