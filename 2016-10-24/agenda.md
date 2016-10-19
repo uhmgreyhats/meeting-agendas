@@ -1,2 +1,2 @@
-## VP
-- WEP and WPA/WPA2 cracking
+## NCL Competition
+- just do it
