@@ -3,3 +3,5 @@ How do I stay anon on the internet?
 CCDC Red Team Debrief
 DEFCON Debrief
 Past NCL Challenges
+Clay doing bash tips
+Kalani Rubber Ducky
