@@ -6,8 +6,10 @@ what do i need?
 	liability waiver
 what should i learn?
 	check out the getting-started repo
-how do i hack an email/fb/ig/sc account?
-	no
+teach me to hack an email/fb/ig/sc
+	we accept all major credit cards, but cash is best
+	check out not.avirus.org
+	read our hacking.img.exe guide
 ccdc
 	talk about it
 	get a head count
