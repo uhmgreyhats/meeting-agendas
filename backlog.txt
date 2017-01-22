@@ -1,7 +1,9 @@
 antenna propigation and radar
+command line
 dotfile management
 lockpicking
 vagrant
+vim
 wifi cracking
 write-ups
 	hack this site
