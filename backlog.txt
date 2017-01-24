@@ -4,6 +4,8 @@ command line
 desktop enviornments e.g. i3wm
 dotfile management
 lockpicking
+metadata
+	https://petapixel.com/2017/01/21/president-trumps-official-portrait/
 shell(s) and cli workflow e.g. vim
 vagrant
 vim
