@@ -1,7 +1,10 @@
 antenna propigation and radar
+audiobooks ad podcasts
 command line
+desktop enviornments e.g. i3wm
 dotfile management
 lockpicking
+shell(s) and cli workflow e.g. vim
 vagrant
 vim
 wifi cracking
