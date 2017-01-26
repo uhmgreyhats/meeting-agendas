@@ -6,8 +6,42 @@ Of those, 7% were in public channels, 32% were in private channels and 61% were 
 Your team also uploaded 25 files (that's 20 more than the week before).
 ```
 
-## Ubuntu System Hardening
-
 ## CCDC Roster
 
-## ask mark, chris, adam about setting up defense exersice. With or without Keller lab
+---
+
+Loner:
+- Clay
+
+---
+
+Windows Team:
+
+- Elliot
+- Kirsten
+- Sean
+- Trevin
+
+---
+
+Linux:
+
+- Hendricks
+- Mark
+- Marko
+- Tyler
+- Vincent
+
+## Quick Tips
+
+- Amazon Smile
+- ispell
+
+## Ubuntu System Hardening
+
+- [Initial Server Setup Digital Ocean](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+- maybe LAMP stack as well?
+
+## ask mark, chris, adam about setting up defense exercise. With or without Keller lab
+
+## Need to See Windows Team after Meeting to discuss training Session with Melvin
