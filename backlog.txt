@@ -12,6 +12,7 @@ securing personal data
 	https://time.com/money/3620100/sylvester-stallone-social-security-number/
 shell(s) and cli workflow e.g. vim
 vagrant
+breaking down a mr.robot scene
 vim
 wifi cracking
 write-ups
