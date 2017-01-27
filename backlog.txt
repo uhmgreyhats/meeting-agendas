@@ -4,6 +4,8 @@ command line
 desktop enviornments e.g. i3wm
 dotfile management
 lockpicking
+setting up a sovereign environment via ansible
+using Linux in vagrant
 metadata
 	https://petapixel.com/2017/01/21/president-trumps-official-portrait/
 ratting remote access trojans
