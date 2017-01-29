@@ -10,6 +10,7 @@ ratting remote access trojans
 securing personal data
 	https://lifehacker.com/what-to-do-if-your-social-security-number-has-been-stol-1684690096
 	https://time.com/money/3620100/sylvester-stallone-social-security-number/
+ratting
 shell(s) and cli workflow e.g. vim
 vagrant
 vim
