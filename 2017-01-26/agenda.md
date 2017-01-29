@@ -34,6 +34,9 @@ Linux:
 
 ---
 
+Backup:
+Joshua Myers
+
 ## Quick Tips
 
 - Amazon Smile
