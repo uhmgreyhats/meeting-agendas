@@ -4,6 +4,7 @@ audiobooks ad podcasts
 command line
 desktop enviornments e.g. i3wm
 dotfile management
+git and how to contribute to open source
 lockpicking
 setting up a sovereign environment via ansible
 using Linux in vagrant
