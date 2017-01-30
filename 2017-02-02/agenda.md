@@ -1,8 +1,15 @@
-Do we want to do NCL?
+## Slack Stats
+```
+Your team sent a total of 3,202 messages last week (that's 1,598 more than the week before). 
+Of those, 4% were in public channels, 12% were in private channels, and 84% were direct messages. 
+Your team also uploaded 51 files (that's 26 more than the week before).
+```
 
-Greyhats should! if we don't do it, it's experience that we won't be getting. 
-only have the people that want to participate in NCL, participate in NCL so there is no wasting money.
-Like any sports team, we should be practicing on some of the tools that we could be using for NCL. 
+## Vagrant
 
+## Do we want to do NCL?
 
-After todays meeting is a Windows defense exercise
+## CCDC Prep Available to Everyone
+- Windows exercise available tonight
+- Linux Team Meeting up as well
+
