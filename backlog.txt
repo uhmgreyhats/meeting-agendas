@@ -1,6 +1,9 @@
 anki
 antenna propigation and radar
 audiobooks ad podcasts
+brochure
+	make a brochure to leave around campus or in geralds office
+	template can be left in gdrive
 command line
 desktop enviornments e.g. i3wm
 dotfile management
