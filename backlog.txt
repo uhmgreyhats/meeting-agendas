@@ -17,6 +17,10 @@ ratting remote access trojans
 securing personal data
 	https://lifehacker.com/what-to-do-if-your-social-security-number-has-been-stol-1684690096
 	https://time.com/money/3620100/sylvester-stallone-social-security-number/
+	https://crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices
+	http://www.thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
+	https://ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
+	https://www.reddit.com/r/privacy/comments/2p3alx/just_got_doxed_what_should_i_do/
 ratting
 shell(s) and cli workflow e.g. vim
 vagrant
