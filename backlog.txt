@@ -8,6 +8,9 @@ command line
 desktop enviornments e.g. i3wm
 dotfile management
 git and how to contribute to open source
+	codecademy.com/learn/learn-git
+	learngitbranching.js.org/
+	try.github.io
 lockpicking
 setting up a sovereign environment via ansible
 using Linux in vagrant
@@ -29,4 +32,5 @@ vim
 wifi cracking
 write-ups
 	hack this site
+	over the wire
 	smash the stack
