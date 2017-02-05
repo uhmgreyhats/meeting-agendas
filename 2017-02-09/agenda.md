@@ -1,1 +1,5 @@
-sleep over for ccdc?
+## CCDC Slumber Party
+ - Mr. Robot
+
+## Anki Demonstration
+
