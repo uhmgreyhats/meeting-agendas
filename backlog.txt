@@ -30,6 +30,10 @@ vagrant
 breaking down a mr.robot scene
 vim
 wifi cracking
+	or just free wifi in general
+	arp spoofing
+	icmp tunneling
+	clearing cache
 write-ups
 	hack this site
 	over the wire
