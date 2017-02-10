@@ -1,11 +1,12 @@
-anki
+-anki
+-command line
+-using Linux in vagrant
+-breaking down a mr.robot scene
 antenna propigation and radar
 audiobooks ad podcasts
 brochure
 	make a brochure to leave around campus or in geralds office
 	template can be left in gdrive
-command line
-desktop enviornments e.g. i3wm
 dotfile management
 git and how to contribute to open source
 	codecademy.com/learn/learn-git
@@ -13,7 +14,6 @@ git and how to contribute to open source
 	try.github.io
 lockpicking
 setting up a sovereign environment via ansible
-using Linux in vagrant
 metadata
 	https://petapixel.com/2017/01/21/president-trumps-official-portrait/
 ratting remote access trojans
@@ -24,11 +24,7 @@ securing personal data
 	http://www.thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
 	https://ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
 	https://www.reddit.com/r/privacy/comments/2p3alx/just_got_doxed_what_should_i_do/
-ratting
 shell(s) and cli workflow e.g. vim
-vagrant
-breaking down a mr.robot scene
-vim
 wifi cracking
 	or just free wifi in general
 	arp spoofing
@@ -38,3 +34,4 @@ write-ups
 	hack this site
 	over the wire
 	smash the stack
+vim and i3wm
