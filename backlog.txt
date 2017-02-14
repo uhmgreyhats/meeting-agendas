@@ -1,9 +1,5 @@
--anki
--command line
--using Linux in vagrant
--breaking down a mr.robot scene
 antenna propigation and radar
-audiobooks ad podcasts
+audiobooks and podcasts
 brochure
 	make a brochure to leave around campus or in geralds office
 	template can be left in gdrive
@@ -15,18 +11,16 @@ git and how to contribute to open source
 lockpicking
 setting up a sovereign environment via ansible
 metadata
-	https://petapixel.com/2017/01/21/president-trumps-official-portrait/
+	petapixel.com/2017/01/21/president-trumps-official-portrait/
 ratting remote access trojans
 securing personal data
-	https://lifehacker.com/what-to-do-if-your-social-security-number-has-been-stol-1684690096
-	https://time.com/money/3620100/sylvester-stallone-social-security-number/
-	https://crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices
-	http://www.thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
-	https://ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
-	https://www.reddit.com/r/privacy/comments/2p3alx/just_got_doxed_what_should_i_do/
-shell(s) and cli workflow e.g. vim
-wifi cracking
-	or just free wifi in general
+	ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
+	crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices
+	lifehacker.com/what-to-do-if-your-social-security-number-has-been-stol-1684690096
+	reddit.com/r/privacy/comments/2p3alx/just_got_doxed_what_should_i_do/
+	thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
+	time.com/money/3620100/sylvester-stallone-social-security-number/
+free wifi
 	arp spoofing
 	icmp tunneling
 	clearing cache
@@ -35,3 +29,10 @@ write-ups
 	over the wire
 	smash the stack
 vim and i3wm
+-----------------------------------------
+done
+	anki
+	command line
+	using Linux in vagrant
+	breaking down a mr.robot scene
+	shell(s) and cli workflow e.g. vim
