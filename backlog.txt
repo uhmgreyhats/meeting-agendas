@@ -12,6 +12,7 @@ git and how to contribute to open source
 	learngitbranching.js.org/
 	try.github.io
 lockpicking
+phone security and ting carrier
 setting up a sovereign environment via ansible
 metadata
 	petapixel.com/2017/01/21/president-trumps-official-portrait/
@@ -24,6 +25,7 @@ securing personal data
 	thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
 	time.com/money/3620100/sylvester-stallone-social-security-number/
 stock chart tecnical analysis
+thinkpads and keyboards
 free wifi
 	arp spoofing
 	icmp tunneling
