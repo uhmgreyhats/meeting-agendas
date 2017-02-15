@@ -1,3 +1,5 @@
+Moving the CTF from 2/23 to something else?
+
 vp presentation
 note to self: use key-mon, but not when typing password/sensitive data
 	vim
