@@ -1,4 +1,5 @@
 vp presentation
+note to self: use key-mon, but not when typing password/sensitive data
 	vim
 		basic movement
 		moving text
