@@ -4,6 +4,8 @@ brochure
 	make a brochure to leave around campus or in geralds office
 	template can be left in gdrive
 dorking
+	google
+	github
 dotfile management
 git and how to contribute to open source
 	codecademy.com/learn/learn-git
