@@ -17,6 +17,7 @@ setting up a sovereign environment via ansible
 metadata
 	petapixel.com/2017/01/21/president-trumps-official-portrait/
 ratting remote access trojans
+	github.com/n1nj4sec/pupy
 securing personal data
 	ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
 	crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices
