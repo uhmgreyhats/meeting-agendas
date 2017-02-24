@@ -4,8 +4,6 @@ git and how to contribute to open source
 	learngitbranching.js.org/
 	try.github.io
 
-lockpicking
-
 setting up a sovereign environment via ansible
 
 ratting remote access trojans
@@ -23,6 +21,8 @@ securing personal data
 	thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
 	time.com/money/3620100/sylvester-stallone-social-security-number/
 
+securing mobile device
+
 free wifi
 	arp spoofing
 	icmp tunneling
@@ -32,7 +32,8 @@ free wifi
 -----------------------------------------
 done
 	anki
-	command line
-	using Linux in vagrant
 	breaking down a mr.robot scene
 	cli, shell(s), vim, and i3wm
+	command line
+	lockpicking
+	using Linux in vagrant
