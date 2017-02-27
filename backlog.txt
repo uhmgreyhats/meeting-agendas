@@ -1,8 +1,9 @@
 
-git and how to contribute to open source
+git, how to contribute to open source, and student developer pack
 	codecademy.com/learn/learn-git
 	learngitbranching.js.org/
 	try.github.io
+	education.github.com/pack
 
 setting up a sovereign environment via ansible
 
