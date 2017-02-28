@@ -10,6 +10,16 @@ setting up a sovereign environment via ansible
 ratting remote access trojans
 	github.com/n1nj4sec/pupy
 
+cheap travel
+	wwoof
+	airbnb
+	discount airlines
+	packing
+	saving money
+	budgeting
+	flight timing
+	planing out
+
 dorking
 	google
 	github
