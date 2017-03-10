@@ -34,11 +34,6 @@ securing personal data
 
 securing mobile device
 
-free wifi
-	arp spoofing
-	icmp tunneling
-	clearing cache
-	digital ocean proxy
 
 -----------------------------------------
 done
@@ -46,5 +41,10 @@ done
 	breaking down a mr.robot scene
 	cli, shell(s), vim, and i3wm
 	command line
+	free wifi
+		arp spoofing
+		icmp tunneling
+		clearing cache
+		digital ocean proxy
 	lockpicking
 	using Linux in vagrant

@@ -1,0 +1,5 @@
+free wifi
+	arp spoofing
+	icmp tunneling
+	clearing cache
+	digital ocean proxy
