@@ -1,0 +1,24 @@
+## NCL Spring
+
+## SSH Brute Forcing
+
+### Links
+
+- http://askubuntu.com/questions/16650/create-a-new-ssh-user-on-ubuntu-server
+- http://askubuntu.com/questions/661914/no-logs-get-logged-into-syslog-file-after-i-removed-all-lines-from-it
+- http://askubuntu.com/questions/178016/how-do-i-keep-track-of-failed-ssh-log-in-attempts
+- https://wiki.skullsecurity.org/Passwords
+
+###
+
+- Hydra
+- Password Lists
+- Proxy chains
+- Location of Auth Logs
+- FHS
+- Watch Command
+- Authlog.1 explanation
+- Permissions
+- Gunzip
+- Tar
+- SSH Obscurity - ports, usernames, keybased auth
