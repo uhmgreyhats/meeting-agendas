@@ -1,50 +1,17 @@
-
 git, how to contribute to open source, and student developer pack
 	codecademy.com/learn/learn-git
+	education.github.com/pack
 	learngitbranching.js.org/
 	try.github.io
-	education.github.com/pack
-
-setting up a sovereign environment via ansible
-
 ratting remote access trojans
-	github.com/n1nj4sec/pupy
-
-cheap travel
-	wwoof
-	airbnb
-	discount airlines
-	packing
-	saving money
-	budgeting
-	flight timing
-	planing out
-
-dorking
-	google
-	github
-
-securing personal data
-	ask.slashdot.org/story/15/09/20/0445218/ask-slashdot-how-do-i-recover-from-doxxing
-	crashoverridenetwork.tumblr.com/post/114270394687/so-youve-been-doxed-a-guide-to-best-practices
-	lifehacker.com/what-to-do-if-your-social-security-number-has-been-stol-1684690096
-	reddit.com/r/privacy/comments/2p3alx/just_got_doxed_what_should_i_do/
-	thedailybeast.com/articles/2015/06/29/i-got-doxxed-so-you-don-t-have-to.html
-	time.com/money/3620100/sylvester-stallone-social-security-number/
-
 securing mobile device
-
-
+securing personal data
+setting up a sovereign environment via ansible
 -----------------------------------------
 done
 	anki
 	breaking down a mr.robot scene
 	cli, shell(s), vim, and i3wm
-	command line
-	free wifi
-		arp spoofing
-		icmp tunneling
-		clearing cache
-		digital ocean proxy
+	free wifi and proxies/vpns
 	lockpicking
 	using Linux in vagrant
