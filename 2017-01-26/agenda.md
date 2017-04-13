@@ -26,7 +26,7 @@ Windows:
 
 Linux:
 
-- Hendricks
+- VP
 - Mark
 - Chris Lee
 - Tyler
