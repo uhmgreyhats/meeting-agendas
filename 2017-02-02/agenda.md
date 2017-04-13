@@ -38,4 +38,4 @@ sudo chgrp <group> <file>
 
 ## CCDC Prep Available to Everyone
 - Windows exercise available tonight (See Elliot for details)
-- Linux Team Meeting up as well (See Hendricks for details)
+- Linux Team Meeting up as well (See VP for details)

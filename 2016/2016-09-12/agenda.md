@@ -20,7 +20,7 @@
 - system hardening
 
 #### "What can we improve on"
-- stickers 
+- stickers
 - need more chicks
 - have beginners classes
 - support cyber community
@@ -56,7 +56,7 @@
 - Determine who wants to register for NCL
 - Sign RIO application
 
-## Hendricks Hicks
+## VP
 - ITS CTF Scoring System Testing
 
 ## CSAW CTF
